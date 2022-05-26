@@ -1,0 +1,33 @@
+.zero {
+    color: red;
+    }
+    .first {
+        color: brown;
+        padding size: 2px;
+    }
+    .second {
+        background-color: yellow;
+        text: solid;
+        color: brown;
+    }
+    .third{
+        color: brown;
+        padding= 2px;
+        letter-spacing: 5px;
+    
+    }
+    .btn{
+        background-color: yellow;
+        text: solid;
+        color: brown;
+    }
+    a{
+        text-decoration: none;
+    }
+    .forth{
+        text-decoration: line-through;
+    }
+    .fifth{
+        font-style: italic;
+        text-decoration: underline;
+    }
