@@ -1,0 +1,157 @@
+.container {
+    height: 100%;
+    width: auto;
+    background-image: url(./bg.jpg);
+    border: 10px groove rgb(25, 235, 25);
+    background-size: cover;
+}
+
+img {
+    height: 100vh;
+    width: 900px;
+}
+
+.container1 {
+    display: flex;
+    height: 150px;
+    width: 990px;
+    align-content: center;
+    lign-content: space-around;
+    margin: auto;
+}
+
+.zero {
+    height: 65px;
+    width: 200px;
+    border: 2px.solid;
+    background-color: black;
+    color: white;
+    border: 6px solid red;
+    padding: 15px;
+    border-radius: 25px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.first {
+    position: relative;
+    top: 9px;
+    right: 90px;
+    height: 40px;
+    width: 300px;
+    border: 2px.solid;
+    background-color: black;
+    color: white;
+    border: 6px solid red;
+    padding: 5px;
+    
+    border-radius: 25px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.email {
+    height: 80px;
+    width: 200px;
+    border: 6px solid;
+    background-color: black;
+    color: white;
+    border: 6px solid red;
+    border-radius: 25px;
+    font-size: 20px;
+    font-size-adjust: center;
+    text-align: center;
+    padding: 15px;
+}
+
+.container2 {
+    height: 650px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.form {
+    height: 630px;
+    width: 300px;
+    border: 6px solid red;
+    text-align: center;
+    border-style: dashed;
+    color: brown;
+    margin: 80px;
+}
+
+.circle {
+    height: 210px;
+    width: 210px;
+    border-radius: 130px;
+    background-color: aquamarine;
+    border: 3px solid rgba(214, 143, 143, 0.66);
+    font-size: 14px;
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+}
+
+.container3 {
+    height: 100px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin: auto;
+}
+
+.menu {
+    height: 50px;
+    width: 300px;
+    border: 2px.solid;
+    background-color: black;
+    color: white;
+    border: 6px solid red;
+    padding-top: 9px;
+    margin: 2px;
+    border: radius 15px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.last {
+    height: 500px;
+    width: 900px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    padding-left: 80px;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 5px solid green;
+    background-color: aqua;
+    text-align: center;
+    color: rgb(42, 42, 167);
+    font-size: 15px;
+    margin: 10px;
+}
+
+.box1 {
+    height: 240px;
+    width: 200px;
+    border-radius: 20px;
+    border: 5px solid green;
+    background-color: aqua;
+    text-align: center;
+    color: rgb(42, 42, 167);
+    font-size: 15px;
+    margin: 10px;
+}
